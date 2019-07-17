@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstProject", "MyFirstProject\MyFirstProject.csproj", "{BFE43453-8A04-42FD-8312-181DA3C7FE55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE43453-8A04-42FD-8312-181DA3C7FE55}.Debug|x86.ActiveCfg = Debug|x86
+		{BFE43453-8A04-42FD-8312-181DA3C7FE55}.Debug|x86.Build.0 = Debug|x86
+		{BFE43453-8A04-42FD-8312-181DA3C7FE55}.Release|x86.ActiveCfg = Release|x86
+		{BFE43453-8A04-42FD-8312-181DA3C7FE55}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
